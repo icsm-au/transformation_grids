@@ -34,8 +34,6 @@ Full national coverage two-way transformation file - see http://www.icsm.gov.au/
 |-|-
 |`A66_National_13_09_01.gsb`|1803 [AGD66 to GDA94 (11)]
     
-
-	A66_National_13_09_01.gsb	EPSG Transformation Code : 1803 [AGD66 to GDA94 (11)]
 	
 ### AGD84 <> GDA94
 
