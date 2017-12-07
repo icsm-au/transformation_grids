@@ -41,6 +41,6 @@ Full coverage two-way transformation file in those states that origianlly adopte
 
 | File        | EPSG Transformation Code
 |-|-
-|`National_84_02_07_01.gsb`|1804 [AGD66 to GDA94 (11)]
+|`National_84_02_07_01.gsb`|1804 [AGD66 to GDA94 (5)]
 	
 
