@@ -30,7 +30,8 @@ Full coverage two-way transformation file in those states that originally adopte
 
 | File        | EPSG Transformation Code
 |-|-
-|`National_84_02_07_01.gsb`|1804 [AGD66 to GDA94 (11)]
+|`National_84_02_07_01.gsb`|1804 [AGD66 to GDA94 (5)]
+	
 
 ### GDA94 <> GDA2020
 Full national coverage two-way transformation files – See Sections 3.2 and 3.7 in the GDA2020 Technical Manual available at [http://www.icsm.gov.au/gda/tech.html](http://www.icsm.gov.au/gda/tech.html) for details.
