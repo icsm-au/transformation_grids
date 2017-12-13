@@ -1,6 +1,6 @@
 # ICSM transformation grids
 
-National Transformation version 2 (NTv2) files for transforming between Australian national datums AGD66 / AGD84 and GDA94 plus GDA94 to GDA2020
+National Transformation version 2 (NTv2) files for transforming between Australian national datums AGD66 / AGD84 and GDA94 as well as between GDA94 and GDA2020. The following datum transforms are supported:
 	
 	AGD66 (EPSG 2D CRS code: 4202) and GDA94 (EPSG 2D CRS code: 4283)
 	AGD84 (EPSG 3D CRS code: 4203) and GDA94 (EPSG 2D CRS code: 4283)
