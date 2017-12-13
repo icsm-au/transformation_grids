@@ -36,12 +36,14 @@ Full coverage two-way transformation file in those states that originally adopte
 ### GDA94 <> GDA2020
 Full national coverage two-way transformation files – See Sections 3.2 and 3.7 in the GDA2020 Technical Manual available at [http://www.icsm.gov.au/gda/tech.html](http://www.icsm.gov.au/gda/tech.html) for details.
 Two types of GDA94 – GDA2020 transformation grids have been developed:
+
 •	Conformal: predominantly plate tectonic motion (~1.8 m NNE)
+
 •	Conformal + Distortion: includes regional distortion.
 
 The difference between GDA94 and GDA2020 coordinates is comprised of a conformal transformation component primarily due to plate tectonic motion and an irregular (non-conformal) distortion component. The conformal component accounts for the primary coordinate movement between GDA94 and GDA2020 and replicates a seven-parameter similarity transformation.
 The distortion component is attributable to several second-order effects, such as an improved realisation of the global reference frame over time; irregular ground movement since GDA94 was established; and improvements in computation methods since GDA94. These effects vary in magnitude and direction around the country and can be as large as ~0.5 m.
-Advice on choosing which grid to use is included in Table 3.4 in in the GDA2020 Technical Manual available at [http://www.icsm.gov.au/gda/tech.html](http://www.icsm.gov.au/gda/tech.html.
+Advice on choosing which grid to use is included in Table 3.4 in in the GDA2020 Technical Manual available at [http://www.icsm.gov.au/gda/tech.html](http://www.icsm.gov.au/gda/tech.html).
 
 | File        | EPSG Transformation Code
 |-|-
