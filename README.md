@@ -59,3 +59,6 @@ The transformation grids can be accessed by downloading from this project on Git
  * National_84_02_07_01.gsb: https://s3-ap-southeast-2.amazonaws.com/transformation-grids/National_84_02_07_01.gsb
  * GDA94_GDA2020_conformal.gsb: https://s3-ap-southeast-2.amazonaws.com/transformation-grids/GDA94_GDA2020_conformal.gsb
  * GDA94_GDA2020_conformal_and_distortion.gsb:https://s3-ap-southeast-2.amazonaws.com/transformation-grids/GDA94_GDA2020_conformal_and_distortion.gsb
+
+# License
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
