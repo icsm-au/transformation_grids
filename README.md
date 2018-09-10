@@ -47,8 +47,8 @@ Advice on choosing which grid to use is included in Table 3.4 in in the GDA2020 
 
 | File        | EPSG Transformation Code
 |-|-
-|GDA94_GDA2020_conformal.gsb|Not yet available
-|GDA94_GDA2020_conformal_and_distortion.gsb|Not yet available
+|GDA94_GDA2020_conformal.gsb|8446 .[GDA94 to GDA2020 (3)]
+|GDA94_GDA2020_conformal_and_distortion.gsb|8447 .[GDA94 to GDA2020 (2)]
 
 
 
