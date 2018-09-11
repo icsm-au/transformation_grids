@@ -49,8 +49,8 @@ Advice on choosing which grid to use is included in Table 3.4 in in the GDA2020 
 |-|-
 |GDA94_GDA2020_conformal.gsb|8446 [GDA94 to GDA2020 (3)]
 |GDA94_GDA2020_conformal_and_distortion.gsb|8447 [GDA94 to GDA2020 (2)]
-|XMAS_C_V1.gsb|8444 [GDA94 to GDA2020 (4)]
-|COCOS_C_V1.gsb|8445 [GDA94 to GDA2020 (5)]
+|GDA94_GDA2020_conformal_christmas_island.gsb|8444 [GDA94 to GDA2020 (4)]
+|GDA94_GDA2020_conformal_cocos_island.gsb|8445 [GDA94 to GDA2020 (5)]
 
 
 
@@ -61,8 +61,8 @@ The transformation grids can be accessed by downloading from this project on Git
  * National_84_02_07_01.gsb: https://s3-ap-southeast-2.amazonaws.com/transformation-grids/National_84_02_07_01.gsb
  * GDA94_GDA2020_conformal.gsb: https://s3-ap-southeast-2.amazonaws.com/transformation-grids/GDA94_GDA2020_conformal.gsb
  * GDA94_GDA2020_conformal_and_distortion.gsb:https://s3-ap-southeast-2.amazonaws.com/transformation-grids/GDA94_GDA2020_conformal_and_distortion.gsb
- * XMAS_C_V1.gsb: https://s3-ap-southeast-2.amazonaws.com/transformation-grids/XMAS_C_V1.gsb
- * COCOS_C_V1.gsb: https://s3-ap-southeast-2.amazonaws.com/transformation-grids/COCOS_C_V1.gsb
+ * GDA94_GDA2020_conformal_christmas_island.gsb: https://s3-ap-southeast-2.amazonaws.com/transformation-grids/GDA94_GDA2020_conformal_christmas_island.gsb
+ * GDA94_GDA2020_conformal_cocos_island.gsb: https://s3-ap-southeast-2.amazonaws.com/transformation-grids/GDA94_GDA2020_conformal_cocos_island.gsb
 
 # License
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
