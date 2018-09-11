@@ -41,7 +41,7 @@ Two types of GDA94 – GDA2020 transformation grids have been developed:
 
 •	Conformal + Distortion: includes regional distortion.
 
-The difference between GDA94 and GDA2020 coordinates is comprised of a conformal transformation component primarily due to plate tectonic motion and an irregular (non-conformal) distortion component. The conformal component accounts for the primary coordinate movement between GDA94 and GDA2020 and replicates a seven-parameter similarity transformation.
+The difference between GDA94 and GDA2020 coordinates is comprised of a conformal transformation component primarily due to plate tectonic motion and an irregular (non-conformal) distortion component. The conformal component accounts for the primary coordinate movement between GDA94 and GDA2020 and replicates a seven-parameter similarity transformation. Conformal grids are also provided for Christmas Island and Cocos (Keeling) Isalnds.
 The distortion component is attributable to several second-order effects, such as an improved realisation of the global reference frame over time; irregular ground movement since GDA94 was established; and improvements in computation methods since GDA94. These effects vary in magnitude and direction around the country and can be as large as ~0.5 m.
 Advice on choosing which grid to use is included in Table 3.4 in in the GDA2020 Technical Manual available at [http://www.icsm.gov.au/gda/tech.html](http://www.icsm.gov.au/gda/tech.html).
 
@@ -49,6 +49,8 @@ Advice on choosing which grid to use is included in Table 3.4 in in the GDA2020 
 |-|-
 |GDA94_GDA2020_conformal.gsb|8446 [GDA94 to GDA2020 (3)]
 |GDA94_GDA2020_conformal_and_distortion.gsb|8447 [GDA94 to GDA2020 (2)]
+|XMAS_C_V1.gsb|8444 [GDA94 to GDA2020 (4)]
+|COCOS_C_V1.gsb|8445 [GDA94 to GDA2020 (5)]
 
 
 
@@ -59,6 +61,8 @@ The transformation grids can be accessed by downloading from this project on Git
  * National_84_02_07_01.gsb: https://s3-ap-southeast-2.amazonaws.com/transformation-grids/National_84_02_07_01.gsb
  * GDA94_GDA2020_conformal.gsb: https://s3-ap-southeast-2.amazonaws.com/transformation-grids/GDA94_GDA2020_conformal.gsb
  * GDA94_GDA2020_conformal_and_distortion.gsb:https://s3-ap-southeast-2.amazonaws.com/transformation-grids/GDA94_GDA2020_conformal_and_distortion.gsb
+ * XMAS_C_V1.gsb: https://s3-ap-southeast-2.amazonaws.com/transformation-grids/XMAS_C_V1.gsb
+ * COCOS_C_V1.gsb: https://s3-ap-southeast-2.amazonaws.com/transformation-grids/COCOS_C_V1.gsb
 
 # License
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
