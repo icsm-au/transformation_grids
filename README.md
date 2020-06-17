@@ -14,7 +14,7 @@ Australian grids of 2D coordinate shifts are provided in the Canadian National T
 
 Detailed information on Australian datums and transformations between them is available in the GDA2020 Technical Manual available at [http://www.icsm.gov.au/gda/tech.html](http://www.icsm.gov.au/gda/tech.html) - in particular Chapter 3 and Appendix B describe the transformation methods including background to and area of application of the transformation files.
 
-Development of the GDA2020 Transformation Grids is detailed in the document *GDA2020 Transformation Grid Development Summary*
+Development of the GDA2020 Transformation Grids is detailed in the document *GDA2020 Transformation Grid Development Summary*, which is located in the repository 
 
 ## Description of the Transformation Grids
 ### AGD66 <> GDA94
